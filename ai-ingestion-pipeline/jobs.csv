@@ -1,0 +1,3 @@
+schemaVersion,recordType,source_name,source_url,company,date,is_remote,role_family
+1.0,JOB,AI Jobs Board,https://ai-jobs.net/job/101,Anthropic,2026-09-05T08:11:39.929447+00:00,True,Engineering
+1.0,JOB,YCombinator Jobs,https://www.ycombinator.com/jobs/201,OpenAI,2026-09-05T08:11:39.929451+00:00,False,Research

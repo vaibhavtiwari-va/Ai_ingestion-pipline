@@ -1,0 +1,1001 @@
+schemaVersion,recordType,source_name,source_url,entityName,employeeCount
+1.0,STARTUP,YCombinator,https://yc.com/companies/0,OpenAI,10
+1.0,STARTUP,YCombinator,https://yc.com/companies/1,Anthropic,20
+1.0,STARTUP,YCombinator,https://yc.com/companies/2,Cohere,30
+1.0,STARTUP,YCombinator,https://yc.com/companies/3,Mistral AI,40
+1.0,STARTUP,YCombinator,https://yc.com/companies/4,Runway,50
+1.0,STARTUP,YCombinator,https://yc.com/companies/5,OpenAI,60
+1.0,STARTUP,YCombinator,https://yc.com/companies/6,Anthropic,70
+1.0,STARTUP,YCombinator,https://yc.com/companies/7,Cohere,80
+1.0,STARTUP,YCombinator,https://yc.com/companies/8,Mistral AI,90
+1.0,STARTUP,YCombinator,https://yc.com/companies/9,Runway,100
+1.0,STARTUP,YCombinator,https://yc.com/companies/10,OpenAI,110
+1.0,STARTUP,YCombinator,https://yc.com/companies/11,Anthropic,120
+1.0,STARTUP,YCombinator,https://yc.com/companies/12,Cohere,130
+1.0,STARTUP,YCombinator,https://yc.com/companies/13,Mistral AI,140
+1.0,STARTUP,YCombinator,https://yc.com/companies/14,Runway,150
+1.0,STARTUP,YCombinator,https://yc.com/companies/15,OpenAI,160
+1.0,STARTUP,YCombinator,https://yc.com/companies/16,Anthropic,170
+1.0,STARTUP,YCombinator,https://yc.com/companies/17,Cohere,180
+1.0,STARTUP,YCombinator,https://yc.com/companies/18,Mistral AI,190
+1.0,STARTUP,YCombinator,https://yc.com/companies/19,Runway,200
+1.0,STARTUP,YCombinator,https://yc.com/companies/20,OpenAI,210
+1.0,STARTUP,YCombinator,https://yc.com/companies/21,Anthropic,220
+1.0,STARTUP,YCombinator,https://yc.com/companies/22,Cohere,230
+1.0,STARTUP,YCombinator,https://yc.com/companies/23,Mistral AI,240
+1.0,STARTUP,YCombinator,https://yc.com/companies/24,Runway,250
+1.0,STARTUP,YCombinator,https://yc.com/companies/25,OpenAI,260
+1.0,STARTUP,YCombinator,https://yc.com/companies/26,Anthropic,270
+1.0,STARTUP,YCombinator,https://yc.com/companies/27,Cohere,280
+1.0,STARTUP,YCombinator,https://yc.com/companies/28,Mistral AI,290
+1.0,STARTUP,YCombinator,https://yc.com/companies/29,Runway,300
+1.0,STARTUP,YCombinator,https://yc.com/companies/30,OpenAI,310
+1.0,STARTUP,YCombinator,https://yc.com/companies/31,Anthropic,320
+1.0,STARTUP,YCombinator,https://yc.com/companies/32,Cohere,330
+1.0,STARTUP,YCombinator,https://yc.com/companies/33,Mistral AI,340
+1.0,STARTUP,YCombinator,https://yc.com/companies/34,Runway,350
+1.0,STARTUP,YCombinator,https://yc.com/companies/35,OpenAI,360
+1.0,STARTUP,YCombinator,https://yc.com/companies/36,Anthropic,370
+1.0,STARTUP,YCombinator,https://yc.com/companies/37,Cohere,380
+1.0,STARTUP,YCombinator,https://yc.com/companies/38,Mistral AI,390
+1.0,STARTUP,YCombinator,https://yc.com/companies/39,Runway,400
+1.0,STARTUP,YCombinator,https://yc.com/companies/40,OpenAI,410
+1.0,STARTUP,YCombinator,https://yc.com/companies/41,Anthropic,420
+1.0,STARTUP,YCombinator,https://yc.com/companies/42,Cohere,430
+1.0,STARTUP,YCombinator,https://yc.com/companies/43,Mistral AI,440
+1.0,STARTUP,YCombinator,https://yc.com/companies/44,Runway,450
+1.0,STARTUP,YCombinator,https://yc.com/companies/45,OpenAI,460
+1.0,STARTUP,YCombinator,https://yc.com/companies/46,Anthropic,470
+1.0,STARTUP,YCombinator,https://yc.com/companies/47,Cohere,480
+1.0,STARTUP,YCombinator,https://yc.com/companies/48,Mistral AI,490
+1.0,STARTUP,YCombinator,https://yc.com/companies/49,Runway,500
+1.0,STARTUP,YCombinator,https://yc.com/companies/50,OpenAI,510
+1.0,STARTUP,YCombinator,https://yc.com/companies/51,Anthropic,520
+1.0,STARTUP,YCombinator,https://yc.com/companies/52,Cohere,530
+1.0,STARTUP,YCombinator,https://yc.com/companies/53,Mistral AI,540
+1.0,STARTUP,YCombinator,https://yc.com/companies/54,Runway,550
+1.0,STARTUP,YCombinator,https://yc.com/companies/55,OpenAI,560
+1.0,STARTUP,YCombinator,https://yc.com/companies/56,Anthropic,570
+1.0,STARTUP,YCombinator,https://yc.com/companies/57,Cohere,580
+1.0,STARTUP,YCombinator,https://yc.com/companies/58,Mistral AI,590
+1.0,STARTUP,YCombinator,https://yc.com/companies/59,Runway,600
+1.0,STARTUP,YCombinator,https://yc.com/companies/60,OpenAI,610
+1.0,STARTUP,YCombinator,https://yc.com/companies/61,Anthropic,620
+1.0,STARTUP,YCombinator,https://yc.com/companies/62,Cohere,630
+1.0,STARTUP,YCombinator,https://yc.com/companies/63,Mistral AI,640
+1.0,STARTUP,YCombinator,https://yc.com/companies/64,Runway,650
+1.0,STARTUP,YCombinator,https://yc.com/companies/65,OpenAI,660
+1.0,STARTUP,YCombinator,https://yc.com/companies/66,Anthropic,670
+1.0,STARTUP,YCombinator,https://yc.com/companies/67,Cohere,680
+1.0,STARTUP,YCombinator,https://yc.com/companies/68,Mistral AI,690
+1.0,STARTUP,YCombinator,https://yc.com/companies/69,Runway,700
+1.0,STARTUP,YCombinator,https://yc.com/companies/70,OpenAI,710
+1.0,STARTUP,YCombinator,https://yc.com/companies/71,Anthropic,720
+1.0,STARTUP,YCombinator,https://yc.com/companies/72,Cohere,730
+1.0,STARTUP,YCombinator,https://yc.com/companies/73,Mistral AI,740
+1.0,STARTUP,YCombinator,https://yc.com/companies/74,Runway,750
+1.0,STARTUP,YCombinator,https://yc.com/companies/75,OpenAI,760
+1.0,STARTUP,YCombinator,https://yc.com/companies/76,Anthropic,770
+1.0,STARTUP,YCombinator,https://yc.com/companies/77,Cohere,780
+1.0,STARTUP,YCombinator,https://yc.com/companies/78,Mistral AI,790
+1.0,STARTUP,YCombinator,https://yc.com/companies/79,Runway,800
+1.0,STARTUP,YCombinator,https://yc.com/companies/80,OpenAI,810
+1.0,STARTUP,YCombinator,https://yc.com/companies/81,Anthropic,820
+1.0,STARTUP,YCombinator,https://yc.com/companies/82,Cohere,830
+1.0,STARTUP,YCombinator,https://yc.com/companies/83,Mistral AI,840
+1.0,STARTUP,YCombinator,https://yc.com/companies/84,Runway,850
+1.0,STARTUP,YCombinator,https://yc.com/companies/85,OpenAI,860
+1.0,STARTUP,YCombinator,https://yc.com/companies/86,Anthropic,870
+1.0,STARTUP,YCombinator,https://yc.com/companies/87,Cohere,880
+1.0,STARTUP,YCombinator,https://yc.com/companies/88,Mistral AI,890
+1.0,STARTUP,YCombinator,https://yc.com/companies/89,Runway,900
+1.0,STARTUP,YCombinator,https://yc.com/companies/90,OpenAI,910
+1.0,STARTUP,YCombinator,https://yc.com/companies/91,Anthropic,920
+1.0,STARTUP,YCombinator,https://yc.com/companies/92,Cohere,930
+1.0,STARTUP,YCombinator,https://yc.com/companies/93,Mistral AI,940
+1.0,STARTUP,YCombinator,https://yc.com/companies/94,Runway,950
+1.0,STARTUP,YCombinator,https://yc.com/companies/95,OpenAI,960
+1.0,STARTUP,YCombinator,https://yc.com/companies/96,Anthropic,970
+1.0,STARTUP,YCombinator,https://yc.com/companies/97,Cohere,980
+1.0,STARTUP,YCombinator,https://yc.com/companies/98,Mistral AI,990
+1.0,STARTUP,YCombinator,https://yc.com/companies/99,Runway,1000
+1.0,STARTUP,YCombinator,https://yc.com/companies/100,OpenAI,1010
+1.0,STARTUP,YCombinator,https://yc.com/companies/101,Anthropic,1020
+1.0,STARTUP,YCombinator,https://yc.com/companies/102,Cohere,1030
+1.0,STARTUP,YCombinator,https://yc.com/companies/103,Mistral AI,1040
+1.0,STARTUP,YCombinator,https://yc.com/companies/104,Runway,1050
+1.0,STARTUP,YCombinator,https://yc.com/companies/105,OpenAI,1060
+1.0,STARTUP,YCombinator,https://yc.com/companies/106,Anthropic,1070
+1.0,STARTUP,YCombinator,https://yc.com/companies/107,Cohere,1080
+1.0,STARTUP,YCombinator,https://yc.com/companies/108,Mistral AI,1090
+1.0,STARTUP,YCombinator,https://yc.com/companies/109,Runway,1100
+1.0,STARTUP,YCombinator,https://yc.com/companies/110,OpenAI,1110
+1.0,STARTUP,YCombinator,https://yc.com/companies/111,Anthropic,1120
+1.0,STARTUP,YCombinator,https://yc.com/companies/112,Cohere,1130
+1.0,STARTUP,YCombinator,https://yc.com/companies/113,Mistral AI,1140
+1.0,STARTUP,YCombinator,https://yc.com/companies/114,Runway,1150
+1.0,STARTUP,YCombinator,https://yc.com/companies/115,OpenAI,1160
+1.0,STARTUP,YCombinator,https://yc.com/companies/116,Anthropic,1170
+1.0,STARTUP,YCombinator,https://yc.com/companies/117,Cohere,1180
+1.0,STARTUP,YCombinator,https://yc.com/companies/118,Mistral AI,1190
+1.0,STARTUP,YCombinator,https://yc.com/companies/119,Runway,1200
+1.0,STARTUP,YCombinator,https://yc.com/companies/120,OpenAI,1210
+1.0,STARTUP,YCombinator,https://yc.com/companies/121,Anthropic,1220
+1.0,STARTUP,YCombinator,https://yc.com/companies/122,Cohere,1230
+1.0,STARTUP,YCombinator,https://yc.com/companies/123,Mistral AI,1240
+1.0,STARTUP,YCombinator,https://yc.com/companies/124,Runway,1250
+1.0,STARTUP,YCombinator,https://yc.com/companies/125,OpenAI,1260
+1.0,STARTUP,YCombinator,https://yc.com/companies/126,Anthropic,1270
+1.0,STARTUP,YCombinator,https://yc.com/companies/127,Cohere,1280
+1.0,STARTUP,YCombinator,https://yc.com/companies/128,Mistral AI,1290
+1.0,STARTUP,YCombinator,https://yc.com/companies/129,Runway,1300
+1.0,STARTUP,YCombinator,https://yc.com/companies/130,OpenAI,1310
+1.0,STARTUP,YCombinator,https://yc.com/companies/131,Anthropic,1320
+1.0,STARTUP,YCombinator,https://yc.com/companies/132,Cohere,1330
+1.0,STARTUP,YCombinator,https://yc.com/companies/133,Mistral AI,1340
+1.0,STARTUP,YCombinator,https://yc.com/companies/134,Runway,1350
+1.0,STARTUP,YCombinator,https://yc.com/companies/135,OpenAI,1360
+1.0,STARTUP,YCombinator,https://yc.com/companies/136,Anthropic,1370
+1.0,STARTUP,YCombinator,https://yc.com/companies/137,Cohere,1380
+1.0,STARTUP,YCombinator,https://yc.com/companies/138,Mistral AI,1390
+1.0,STARTUP,YCombinator,https://yc.com/companies/139,Runway,1400
+1.0,STARTUP,YCombinator,https://yc.com/companies/140,OpenAI,1410
+1.0,STARTUP,YCombinator,https://yc.com/companies/141,Anthropic,1420
+1.0,STARTUP,YCombinator,https://yc.com/companies/142,Cohere,1430
+1.0,STARTUP,YCombinator,https://yc.com/companies/143,Mistral AI,1440
+1.0,STARTUP,YCombinator,https://yc.com/companies/144,Runway,1450
+1.0,STARTUP,YCombinator,https://yc.com/companies/145,OpenAI,1460
+1.0,STARTUP,YCombinator,https://yc.com/companies/146,Anthropic,1470
+1.0,STARTUP,YCombinator,https://yc.com/companies/147,Cohere,1480
+1.0,STARTUP,YCombinator,https://yc.com/companies/148,Mistral AI,1490
+1.0,STARTUP,YCombinator,https://yc.com/companies/149,Runway,1500
+1.0,STARTUP,YCombinator,https://yc.com/companies/150,OpenAI,1510
+1.0,STARTUP,YCombinator,https://yc.com/companies/151,Anthropic,1520
+1.0,STARTUP,YCombinator,https://yc.com/companies/152,Cohere,1530
+1.0,STARTUP,YCombinator,https://yc.com/companies/153,Mistral AI,1540
+1.0,STARTUP,YCombinator,https://yc.com/companies/154,Runway,1550
+1.0,STARTUP,YCombinator,https://yc.com/companies/155,OpenAI,1560
+1.0,STARTUP,YCombinator,https://yc.com/companies/156,Anthropic,1570
+1.0,STARTUP,YCombinator,https://yc.com/companies/157,Cohere,1580
+1.0,STARTUP,YCombinator,https://yc.com/companies/158,Mistral AI,1590
+1.0,STARTUP,YCombinator,https://yc.com/companies/159,Runway,1600
+1.0,STARTUP,YCombinator,https://yc.com/companies/160,OpenAI,1610
+1.0,STARTUP,YCombinator,https://yc.com/companies/161,Anthropic,1620
+1.0,STARTUP,YCombinator,https://yc.com/companies/162,Cohere,1630
+1.0,STARTUP,YCombinator,https://yc.com/companies/163,Mistral AI,1640
+1.0,STARTUP,YCombinator,https://yc.com/companies/164,Runway,1650
+1.0,STARTUP,YCombinator,https://yc.com/companies/165,OpenAI,1660
+1.0,STARTUP,YCombinator,https://yc.com/companies/166,Anthropic,1670
+1.0,STARTUP,YCombinator,https://yc.com/companies/167,Cohere,1680
+1.0,STARTUP,YCombinator,https://yc.com/companies/168,Mistral AI,1690
+1.0,STARTUP,YCombinator,https://yc.com/companies/169,Runway,1700
+1.0,STARTUP,YCombinator,https://yc.com/companies/170,OpenAI,1710
+1.0,STARTUP,YCombinator,https://yc.com/companies/171,Anthropic,1720
+1.0,STARTUP,YCombinator,https://yc.com/companies/172,Cohere,1730
+1.0,STARTUP,YCombinator,https://yc.com/companies/173,Mistral AI,1740
+1.0,STARTUP,YCombinator,https://yc.com/companies/174,Runway,1750
+1.0,STARTUP,YCombinator,https://yc.com/companies/175,OpenAI,1760
+1.0,STARTUP,YCombinator,https://yc.com/companies/176,Anthropic,1770
+1.0,STARTUP,YCombinator,https://yc.com/companies/177,Cohere,1780
+1.0,STARTUP,YCombinator,https://yc.com/companies/178,Mistral AI,1790
+1.0,STARTUP,YCombinator,https://yc.com/companies/179,Runway,1800
+1.0,STARTUP,YCombinator,https://yc.com/companies/180,OpenAI,1810
+1.0,STARTUP,YCombinator,https://yc.com/companies/181,Anthropic,1820
+1.0,STARTUP,YCombinator,https://yc.com/companies/182,Cohere,1830
+1.0,STARTUP,YCombinator,https://yc.com/companies/183,Mistral AI,1840
+1.0,STARTUP,YCombinator,https://yc.com/companies/184,Runway,1850
+1.0,STARTUP,YCombinator,https://yc.com/companies/185,OpenAI,1860
+1.0,STARTUP,YCombinator,https://yc.com/companies/186,Anthropic,1870
+1.0,STARTUP,YCombinator,https://yc.com/companies/187,Cohere,1880
+1.0,STARTUP,YCombinator,https://yc.com/companies/188,Mistral AI,1890
+1.0,STARTUP,YCombinator,https://yc.com/companies/189,Runway,1900
+1.0,STARTUP,YCombinator,https://yc.com/companies/190,OpenAI,1910
+1.0,STARTUP,YCombinator,https://yc.com/companies/191,Anthropic,1920
+1.0,STARTUP,YCombinator,https://yc.com/companies/192,Cohere,1930
+1.0,STARTUP,YCombinator,https://yc.com/companies/193,Mistral AI,1940
+1.0,STARTUP,YCombinator,https://yc.com/companies/194,Runway,1950
+1.0,STARTUP,YCombinator,https://yc.com/companies/195,OpenAI,1960
+1.0,STARTUP,YCombinator,https://yc.com/companies/196,Anthropic,1970
+1.0,STARTUP,YCombinator,https://yc.com/companies/197,Cohere,1980
+1.0,STARTUP,YCombinator,https://yc.com/companies/198,Mistral AI,1990
+1.0,STARTUP,YCombinator,https://yc.com/companies/199,Runway,2000
+1.0,STARTUP,YCombinator,https://yc.com/companies/200,OpenAI,2010
+1.0,STARTUP,YCombinator,https://yc.com/companies/201,Anthropic,2020
+1.0,STARTUP,YCombinator,https://yc.com/companies/202,Cohere,2030
+1.0,STARTUP,YCombinator,https://yc.com/companies/203,Mistral AI,2040
+1.0,STARTUP,YCombinator,https://yc.com/companies/204,Runway,2050
+1.0,STARTUP,YCombinator,https://yc.com/companies/205,OpenAI,2060
+1.0,STARTUP,YCombinator,https://yc.com/companies/206,Anthropic,2070
+1.0,STARTUP,YCombinator,https://yc.com/companies/207,Cohere,2080
+1.0,STARTUP,YCombinator,https://yc.com/companies/208,Mistral AI,2090
+1.0,STARTUP,YCombinator,https://yc.com/companies/209,Runway,2100
+1.0,STARTUP,YCombinator,https://yc.com/companies/210,OpenAI,2110
+1.0,STARTUP,YCombinator,https://yc.com/companies/211,Anthropic,2120
+1.0,STARTUP,YCombinator,https://yc.com/companies/212,Cohere,2130
+1.0,STARTUP,YCombinator,https://yc.com/companies/213,Mistral AI,2140
+1.0,STARTUP,YCombinator,https://yc.com/companies/214,Runway,2150
+1.0,STARTUP,YCombinator,https://yc.com/companies/215,OpenAI,2160
+1.0,STARTUP,YCombinator,https://yc.com/companies/216,Anthropic,2170
+1.0,STARTUP,YCombinator,https://yc.com/companies/217,Cohere,2180
+1.0,STARTUP,YCombinator,https://yc.com/companies/218,Mistral AI,2190
+1.0,STARTUP,YCombinator,https://yc.com/companies/219,Runway,2200
+1.0,STARTUP,YCombinator,https://yc.com/companies/220,OpenAI,2210
+1.0,STARTUP,YCombinator,https://yc.com/companies/221,Anthropic,2220
+1.0,STARTUP,YCombinator,https://yc.com/companies/222,Cohere,2230
+1.0,STARTUP,YCombinator,https://yc.com/companies/223,Mistral AI,2240
+1.0,STARTUP,YCombinator,https://yc.com/companies/224,Runway,2250
+1.0,STARTUP,YCombinator,https://yc.com/companies/225,OpenAI,2260
+1.0,STARTUP,YCombinator,https://yc.com/companies/226,Anthropic,2270
+1.0,STARTUP,YCombinator,https://yc.com/companies/227,Cohere,2280
+1.0,STARTUP,YCombinator,https://yc.com/companies/228,Mistral AI,2290
+1.0,STARTUP,YCombinator,https://yc.com/companies/229,Runway,2300
+1.0,STARTUP,YCombinator,https://yc.com/companies/230,OpenAI,2310
+1.0,STARTUP,YCombinator,https://yc.com/companies/231,Anthropic,2320
+1.0,STARTUP,YCombinator,https://yc.com/companies/232,Cohere,2330
+1.0,STARTUP,YCombinator,https://yc.com/companies/233,Mistral AI,2340
+1.0,STARTUP,YCombinator,https://yc.com/companies/234,Runway,2350
+1.0,STARTUP,YCombinator,https://yc.com/companies/235,OpenAI,2360
+1.0,STARTUP,YCombinator,https://yc.com/companies/236,Anthropic,2370
+1.0,STARTUP,YCombinator,https://yc.com/companies/237,Cohere,2380
+1.0,STARTUP,YCombinator,https://yc.com/companies/238,Mistral AI,2390
+1.0,STARTUP,YCombinator,https://yc.com/companies/239,Runway,2400
+1.0,STARTUP,YCombinator,https://yc.com/companies/240,OpenAI,2410
+1.0,STARTUP,YCombinator,https://yc.com/companies/241,Anthropic,2420
+1.0,STARTUP,YCombinator,https://yc.com/companies/242,Cohere,2430
+1.0,STARTUP,YCombinator,https://yc.com/companies/243,Mistral AI,2440
+1.0,STARTUP,YCombinator,https://yc.com/companies/244,Runway,2450
+1.0,STARTUP,YCombinator,https://yc.com/companies/245,OpenAI,2460
+1.0,STARTUP,YCombinator,https://yc.com/companies/246,Anthropic,2470
+1.0,STARTUP,YCombinator,https://yc.com/companies/247,Cohere,2480
+1.0,STARTUP,YCombinator,https://yc.com/companies/248,Mistral AI,2490
+1.0,STARTUP,YCombinator,https://yc.com/companies/249,Runway,2500
+1.0,STARTUP,YCombinator,https://yc.com/companies/250,OpenAI,2510
+1.0,STARTUP,YCombinator,https://yc.com/companies/251,Anthropic,2520
+1.0,STARTUP,YCombinator,https://yc.com/companies/252,Cohere,2530
+1.0,STARTUP,YCombinator,https://yc.com/companies/253,Mistral AI,2540
+1.0,STARTUP,YCombinator,https://yc.com/companies/254,Runway,2550
+1.0,STARTUP,YCombinator,https://yc.com/companies/255,OpenAI,2560
+1.0,STARTUP,YCombinator,https://yc.com/companies/256,Anthropic,2570
+1.0,STARTUP,YCombinator,https://yc.com/companies/257,Cohere,2580
+1.0,STARTUP,YCombinator,https://yc.com/companies/258,Mistral AI,2590
+1.0,STARTUP,YCombinator,https://yc.com/companies/259,Runway,2600
+1.0,STARTUP,YCombinator,https://yc.com/companies/260,OpenAI,2610
+1.0,STARTUP,YCombinator,https://yc.com/companies/261,Anthropic,2620
+1.0,STARTUP,YCombinator,https://yc.com/companies/262,Cohere,2630
+1.0,STARTUP,YCombinator,https://yc.com/companies/263,Mistral AI,2640
+1.0,STARTUP,YCombinator,https://yc.com/companies/264,Runway,2650
+1.0,STARTUP,YCombinator,https://yc.com/companies/265,OpenAI,2660
+1.0,STARTUP,YCombinator,https://yc.com/companies/266,Anthropic,2670
+1.0,STARTUP,YCombinator,https://yc.com/companies/267,Cohere,2680
+1.0,STARTUP,YCombinator,https://yc.com/companies/268,Mistral AI,2690
+1.0,STARTUP,YCombinator,https://yc.com/companies/269,Runway,2700
+1.0,STARTUP,YCombinator,https://yc.com/companies/270,OpenAI,2710
+1.0,STARTUP,YCombinator,https://yc.com/companies/271,Anthropic,2720
+1.0,STARTUP,YCombinator,https://yc.com/companies/272,Cohere,2730
+1.0,STARTUP,YCombinator,https://yc.com/companies/273,Mistral AI,2740
+1.0,STARTUP,YCombinator,https://yc.com/companies/274,Runway,2750
+1.0,STARTUP,YCombinator,https://yc.com/companies/275,OpenAI,2760
+1.0,STARTUP,YCombinator,https://yc.com/companies/276,Anthropic,2770
+1.0,STARTUP,YCombinator,https://yc.com/companies/277,Cohere,2780
+1.0,STARTUP,YCombinator,https://yc.com/companies/278,Mistral AI,2790
+1.0,STARTUP,YCombinator,https://yc.com/companies/279,Runway,2800
+1.0,STARTUP,YCombinator,https://yc.com/companies/280,OpenAI,2810
+1.0,STARTUP,YCombinator,https://yc.com/companies/281,Anthropic,2820
+1.0,STARTUP,YCombinator,https://yc.com/companies/282,Cohere,2830
+1.0,STARTUP,YCombinator,https://yc.com/companies/283,Mistral AI,2840
+1.0,STARTUP,YCombinator,https://yc.com/companies/284,Runway,2850
+1.0,STARTUP,YCombinator,https://yc.com/companies/285,OpenAI,2860
+1.0,STARTUP,YCombinator,https://yc.com/companies/286,Anthropic,2870
+1.0,STARTUP,YCombinator,https://yc.com/companies/287,Cohere,2880
+1.0,STARTUP,YCombinator,https://yc.com/companies/288,Mistral AI,2890
+1.0,STARTUP,YCombinator,https://yc.com/companies/289,Runway,2900
+1.0,STARTUP,YCombinator,https://yc.com/companies/290,OpenAI,2910
+1.0,STARTUP,YCombinator,https://yc.com/companies/291,Anthropic,2920
+1.0,STARTUP,YCombinator,https://yc.com/companies/292,Cohere,2930
+1.0,STARTUP,YCombinator,https://yc.com/companies/293,Mistral AI,2940
+1.0,STARTUP,YCombinator,https://yc.com/companies/294,Runway,2950
+1.0,STARTUP,YCombinator,https://yc.com/companies/295,OpenAI,2960
+1.0,STARTUP,YCombinator,https://yc.com/companies/296,Anthropic,2970
+1.0,STARTUP,YCombinator,https://yc.com/companies/297,Cohere,2980
+1.0,STARTUP,YCombinator,https://yc.com/companies/298,Mistral AI,2990
+1.0,STARTUP,YCombinator,https://yc.com/companies/299,Runway,3000
+1.0,STARTUP,YCombinator,https://yc.com/companies/300,OpenAI,3010
+1.0,STARTUP,YCombinator,https://yc.com/companies/301,Anthropic,3020
+1.0,STARTUP,YCombinator,https://yc.com/companies/302,Cohere,3030
+1.0,STARTUP,YCombinator,https://yc.com/companies/303,Mistral AI,3040
+1.0,STARTUP,YCombinator,https://yc.com/companies/304,Runway,3050
+1.0,STARTUP,YCombinator,https://yc.com/companies/305,OpenAI,3060
+1.0,STARTUP,YCombinator,https://yc.com/companies/306,Anthropic,3070
+1.0,STARTUP,YCombinator,https://yc.com/companies/307,Cohere,3080
+1.0,STARTUP,YCombinator,https://yc.com/companies/308,Mistral AI,3090
+1.0,STARTUP,YCombinator,https://yc.com/companies/309,Runway,3100
+1.0,STARTUP,YCombinator,https://yc.com/companies/310,OpenAI,3110
+1.0,STARTUP,YCombinator,https://yc.com/companies/311,Anthropic,3120
+1.0,STARTUP,YCombinator,https://yc.com/companies/312,Cohere,3130
+1.0,STARTUP,YCombinator,https://yc.com/companies/313,Mistral AI,3140
+1.0,STARTUP,YCombinator,https://yc.com/companies/314,Runway,3150
+1.0,STARTUP,YCombinator,https://yc.com/companies/315,OpenAI,3160
+1.0,STARTUP,YCombinator,https://yc.com/companies/316,Anthropic,3170
+1.0,STARTUP,YCombinator,https://yc.com/companies/317,Cohere,3180
+1.0,STARTUP,YCombinator,https://yc.com/companies/318,Mistral AI,3190
+1.0,STARTUP,YCombinator,https://yc.com/companies/319,Runway,3200
+1.0,STARTUP,YCombinator,https://yc.com/companies/320,OpenAI,3210
+1.0,STARTUP,YCombinator,https://yc.com/companies/321,Anthropic,3220
+1.0,STARTUP,YCombinator,https://yc.com/companies/322,Cohere,3230
+1.0,STARTUP,YCombinator,https://yc.com/companies/323,Mistral AI,3240
+1.0,STARTUP,YCombinator,https://yc.com/companies/324,Runway,3250
+1.0,STARTUP,YCombinator,https://yc.com/companies/325,OpenAI,3260
+1.0,STARTUP,YCombinator,https://yc.com/companies/326,Anthropic,3270
+1.0,STARTUP,YCombinator,https://yc.com/companies/327,Cohere,3280
+1.0,STARTUP,YCombinator,https://yc.com/companies/328,Mistral AI,3290
+1.0,STARTUP,YCombinator,https://yc.com/companies/329,Runway,3300
+1.0,STARTUP,YCombinator,https://yc.com/companies/330,OpenAI,3310
+1.0,STARTUP,YCombinator,https://yc.com/companies/331,Anthropic,3320
+1.0,STARTUP,YCombinator,https://yc.com/companies/332,Cohere,3330
+1.0,STARTUP,YCombinator,https://yc.com/companies/333,Mistral AI,3340
+1.0,STARTUP,YCombinator,https://yc.com/companies/334,Runway,3350
+1.0,STARTUP,YCombinator,https://yc.com/companies/335,OpenAI,3360
+1.0,STARTUP,YCombinator,https://yc.com/companies/336,Anthropic,3370
+1.0,STARTUP,YCombinator,https://yc.com/companies/337,Cohere,3380
+1.0,STARTUP,YCombinator,https://yc.com/companies/338,Mistral AI,3390
+1.0,STARTUP,YCombinator,https://yc.com/companies/339,Runway,3400
+1.0,STARTUP,YCombinator,https://yc.com/companies/340,OpenAI,3410
+1.0,STARTUP,YCombinator,https://yc.com/companies/341,Anthropic,3420
+1.0,STARTUP,YCombinator,https://yc.com/companies/342,Cohere,3430
+1.0,STARTUP,YCombinator,https://yc.com/companies/343,Mistral AI,3440
+1.0,STARTUP,YCombinator,https://yc.com/companies/344,Runway,3450
+1.0,STARTUP,YCombinator,https://yc.com/companies/345,OpenAI,3460
+1.0,STARTUP,YCombinator,https://yc.com/companies/346,Anthropic,3470
+1.0,STARTUP,YCombinator,https://yc.com/companies/347,Cohere,3480
+1.0,STARTUP,YCombinator,https://yc.com/companies/348,Mistral AI,3490
+1.0,STARTUP,YCombinator,https://yc.com/companies/349,Runway,3500
+1.0,STARTUP,YCombinator,https://yc.com/companies/350,OpenAI,3510
+1.0,STARTUP,YCombinator,https://yc.com/companies/351,Anthropic,3520
+1.0,STARTUP,YCombinator,https://yc.com/companies/352,Cohere,3530
+1.0,STARTUP,YCombinator,https://yc.com/companies/353,Mistral AI,3540
+1.0,STARTUP,YCombinator,https://yc.com/companies/354,Runway,3550
+1.0,STARTUP,YCombinator,https://yc.com/companies/355,OpenAI,3560
+1.0,STARTUP,YCombinator,https://yc.com/companies/356,Anthropic,3570
+1.0,STARTUP,YCombinator,https://yc.com/companies/357,Cohere,3580
+1.0,STARTUP,YCombinator,https://yc.com/companies/358,Mistral AI,3590
+1.0,STARTUP,YCombinator,https://yc.com/companies/359,Runway,3600
+1.0,STARTUP,YCombinator,https://yc.com/companies/360,OpenAI,3610
+1.0,STARTUP,YCombinator,https://yc.com/companies/361,Anthropic,3620
+1.0,STARTUP,YCombinator,https://yc.com/companies/362,Cohere,3630
+1.0,STARTUP,YCombinator,https://yc.com/companies/363,Mistral AI,3640
+1.0,STARTUP,YCombinator,https://yc.com/companies/364,Runway,3650
+1.0,STARTUP,YCombinator,https://yc.com/companies/365,OpenAI,3660
+1.0,STARTUP,YCombinator,https://yc.com/companies/366,Anthropic,3670
+1.0,STARTUP,YCombinator,https://yc.com/companies/367,Cohere,3680
+1.0,STARTUP,YCombinator,https://yc.com/companies/368,Mistral AI,3690
+1.0,STARTUP,YCombinator,https://yc.com/companies/369,Runway,3700
+1.0,STARTUP,YCombinator,https://yc.com/companies/370,OpenAI,3710
+1.0,STARTUP,YCombinator,https://yc.com/companies/371,Anthropic,3720
+1.0,STARTUP,YCombinator,https://yc.com/companies/372,Cohere,3730
+1.0,STARTUP,YCombinator,https://yc.com/companies/373,Mistral AI,3740
+1.0,STARTUP,YCombinator,https://yc.com/companies/374,Runway,3750
+1.0,STARTUP,YCombinator,https://yc.com/companies/375,OpenAI,3760
+1.0,STARTUP,YCombinator,https://yc.com/companies/376,Anthropic,3770
+1.0,STARTUP,YCombinator,https://yc.com/companies/377,Cohere,3780
+1.0,STARTUP,YCombinator,https://yc.com/companies/378,Mistral AI,3790
+1.0,STARTUP,YCombinator,https://yc.com/companies/379,Runway,3800
+1.0,STARTUP,YCombinator,https://yc.com/companies/380,OpenAI,3810
+1.0,STARTUP,YCombinator,https://yc.com/companies/381,Anthropic,3820
+1.0,STARTUP,YCombinator,https://yc.com/companies/382,Cohere,3830
+1.0,STARTUP,YCombinator,https://yc.com/companies/383,Mistral AI,3840
+1.0,STARTUP,YCombinator,https://yc.com/companies/384,Runway,3850
+1.0,STARTUP,YCombinator,https://yc.com/companies/385,OpenAI,3860
+1.0,STARTUP,YCombinator,https://yc.com/companies/386,Anthropic,3870
+1.0,STARTUP,YCombinator,https://yc.com/companies/387,Cohere,3880
+1.0,STARTUP,YCombinator,https://yc.com/companies/388,Mistral AI,3890
+1.0,STARTUP,YCombinator,https://yc.com/companies/389,Runway,3900
+1.0,STARTUP,YCombinator,https://yc.com/companies/390,OpenAI,3910
+1.0,STARTUP,YCombinator,https://yc.com/companies/391,Anthropic,3920
+1.0,STARTUP,YCombinator,https://yc.com/companies/392,Cohere,3930
+1.0,STARTUP,YCombinator,https://yc.com/companies/393,Mistral AI,3940
+1.0,STARTUP,YCombinator,https://yc.com/companies/394,Runway,3950
+1.0,STARTUP,YCombinator,https://yc.com/companies/395,OpenAI,3960
+1.0,STARTUP,YCombinator,https://yc.com/companies/396,Anthropic,3970
+1.0,STARTUP,YCombinator,https://yc.com/companies/397,Cohere,3980
+1.0,STARTUP,YCombinator,https://yc.com/companies/398,Mistral AI,3990
+1.0,STARTUP,YCombinator,https://yc.com/companies/399,Runway,4000
+1.0,STARTUP,YCombinator,https://yc.com/companies/400,OpenAI,4010
+1.0,STARTUP,YCombinator,https://yc.com/companies/401,Anthropic,4020
+1.0,STARTUP,YCombinator,https://yc.com/companies/402,Cohere,4030
+1.0,STARTUP,YCombinator,https://yc.com/companies/403,Mistral AI,4040
+1.0,STARTUP,YCombinator,https://yc.com/companies/404,Runway,4050
+1.0,STARTUP,YCombinator,https://yc.com/companies/405,OpenAI,4060
+1.0,STARTUP,YCombinator,https://yc.com/companies/406,Anthropic,4070
+1.0,STARTUP,YCombinator,https://yc.com/companies/407,Cohere,4080
+1.0,STARTUP,YCombinator,https://yc.com/companies/408,Mistral AI,4090
+1.0,STARTUP,YCombinator,https://yc.com/companies/409,Runway,4100
+1.0,STARTUP,YCombinator,https://yc.com/companies/410,OpenAI,4110
+1.0,STARTUP,YCombinator,https://yc.com/companies/411,Anthropic,4120
+1.0,STARTUP,YCombinator,https://yc.com/companies/412,Cohere,4130
+1.0,STARTUP,YCombinator,https://yc.com/companies/413,Mistral AI,4140
+1.0,STARTUP,YCombinator,https://yc.com/companies/414,Runway,4150
+1.0,STARTUP,YCombinator,https://yc.com/companies/415,OpenAI,4160
+1.0,STARTUP,YCombinator,https://yc.com/companies/416,Anthropic,4170
+1.0,STARTUP,YCombinator,https://yc.com/companies/417,Cohere,4180
+1.0,STARTUP,YCombinator,https://yc.com/companies/418,Mistral AI,4190
+1.0,STARTUP,YCombinator,https://yc.com/companies/419,Runway,4200
+1.0,STARTUP,YCombinator,https://yc.com/companies/420,OpenAI,4210
+1.0,STARTUP,YCombinator,https://yc.com/companies/421,Anthropic,4220
+1.0,STARTUP,YCombinator,https://yc.com/companies/422,Cohere,4230
+1.0,STARTUP,YCombinator,https://yc.com/companies/423,Mistral AI,4240
+1.0,STARTUP,YCombinator,https://yc.com/companies/424,Runway,4250
+1.0,STARTUP,YCombinator,https://yc.com/companies/425,OpenAI,4260
+1.0,STARTUP,YCombinator,https://yc.com/companies/426,Anthropic,4270
+1.0,STARTUP,YCombinator,https://yc.com/companies/427,Cohere,4280
+1.0,STARTUP,YCombinator,https://yc.com/companies/428,Mistral AI,4290
+1.0,STARTUP,YCombinator,https://yc.com/companies/429,Runway,4300
+1.0,STARTUP,YCombinator,https://yc.com/companies/430,OpenAI,4310
+1.0,STARTUP,YCombinator,https://yc.com/companies/431,Anthropic,4320
+1.0,STARTUP,YCombinator,https://yc.com/companies/432,Cohere,4330
+1.0,STARTUP,YCombinator,https://yc.com/companies/433,Mistral AI,4340
+1.0,STARTUP,YCombinator,https://yc.com/companies/434,Runway,4350
+1.0,STARTUP,YCombinator,https://yc.com/companies/435,OpenAI,4360
+1.0,STARTUP,YCombinator,https://yc.com/companies/436,Anthropic,4370
+1.0,STARTUP,YCombinator,https://yc.com/companies/437,Cohere,4380
+1.0,STARTUP,YCombinator,https://yc.com/companies/438,Mistral AI,4390
+1.0,STARTUP,YCombinator,https://yc.com/companies/439,Runway,4400
+1.0,STARTUP,YCombinator,https://yc.com/companies/440,OpenAI,4410
+1.0,STARTUP,YCombinator,https://yc.com/companies/441,Anthropic,4420
+1.0,STARTUP,YCombinator,https://yc.com/companies/442,Cohere,4430
+1.0,STARTUP,YCombinator,https://yc.com/companies/443,Mistral AI,4440
+1.0,STARTUP,YCombinator,https://yc.com/companies/444,Runway,4450
+1.0,STARTUP,YCombinator,https://yc.com/companies/445,OpenAI,4460
+1.0,STARTUP,YCombinator,https://yc.com/companies/446,Anthropic,4470
+1.0,STARTUP,YCombinator,https://yc.com/companies/447,Cohere,4480
+1.0,STARTUP,YCombinator,https://yc.com/companies/448,Mistral AI,4490
+1.0,STARTUP,YCombinator,https://yc.com/companies/449,Runway,4500
+1.0,STARTUP,YCombinator,https://yc.com/companies/450,OpenAI,4510
+1.0,STARTUP,YCombinator,https://yc.com/companies/451,Anthropic,4520
+1.0,STARTUP,YCombinator,https://yc.com/companies/452,Cohere,4530
+1.0,STARTUP,YCombinator,https://yc.com/companies/453,Mistral AI,4540
+1.0,STARTUP,YCombinator,https://yc.com/companies/454,Runway,4550
+1.0,STARTUP,YCombinator,https://yc.com/companies/455,OpenAI,4560
+1.0,STARTUP,YCombinator,https://yc.com/companies/456,Anthropic,4570
+1.0,STARTUP,YCombinator,https://yc.com/companies/457,Cohere,4580
+1.0,STARTUP,YCombinator,https://yc.com/companies/458,Mistral AI,4590
+1.0,STARTUP,YCombinator,https://yc.com/companies/459,Runway,4600
+1.0,STARTUP,YCombinator,https://yc.com/companies/460,OpenAI,4610
+1.0,STARTUP,YCombinator,https://yc.com/companies/461,Anthropic,4620
+1.0,STARTUP,YCombinator,https://yc.com/companies/462,Cohere,4630
+1.0,STARTUP,YCombinator,https://yc.com/companies/463,Mistral AI,4640
+1.0,STARTUP,YCombinator,https://yc.com/companies/464,Runway,4650
+1.0,STARTUP,YCombinator,https://yc.com/companies/465,OpenAI,4660
+1.0,STARTUP,YCombinator,https://yc.com/companies/466,Anthropic,4670
+1.0,STARTUP,YCombinator,https://yc.com/companies/467,Cohere,4680
+1.0,STARTUP,YCombinator,https://yc.com/companies/468,Mistral AI,4690
+1.0,STARTUP,YCombinator,https://yc.com/companies/469,Runway,4700
+1.0,STARTUP,YCombinator,https://yc.com/companies/470,OpenAI,4710
+1.0,STARTUP,YCombinator,https://yc.com/companies/471,Anthropic,4720
+1.0,STARTUP,YCombinator,https://yc.com/companies/472,Cohere,4730
+1.0,STARTUP,YCombinator,https://yc.com/companies/473,Mistral AI,4740
+1.0,STARTUP,YCombinator,https://yc.com/companies/474,Runway,4750
+1.0,STARTUP,YCombinator,https://yc.com/companies/475,OpenAI,4760
+1.0,STARTUP,YCombinator,https://yc.com/companies/476,Anthropic,4770
+1.0,STARTUP,YCombinator,https://yc.com/companies/477,Cohere,4780
+1.0,STARTUP,YCombinator,https://yc.com/companies/478,Mistral AI,4790
+1.0,STARTUP,YCombinator,https://yc.com/companies/479,Runway,4800
+1.0,STARTUP,YCombinator,https://yc.com/companies/480,OpenAI,4810
+1.0,STARTUP,YCombinator,https://yc.com/companies/481,Anthropic,4820
+1.0,STARTUP,YCombinator,https://yc.com/companies/482,Cohere,4830
+1.0,STARTUP,YCombinator,https://yc.com/companies/483,Mistral AI,4840
+1.0,STARTUP,YCombinator,https://yc.com/companies/484,Runway,4850
+1.0,STARTUP,YCombinator,https://yc.com/companies/485,OpenAI,4860
+1.0,STARTUP,YCombinator,https://yc.com/companies/486,Anthropic,4870
+1.0,STARTUP,YCombinator,https://yc.com/companies/487,Cohere,4880
+1.0,STARTUP,YCombinator,https://yc.com/companies/488,Mistral AI,4890
+1.0,STARTUP,YCombinator,https://yc.com/companies/489,Runway,4900
+1.0,STARTUP,YCombinator,https://yc.com/companies/490,OpenAI,4910
+1.0,STARTUP,YCombinator,https://yc.com/companies/491,Anthropic,4920
+1.0,STARTUP,YCombinator,https://yc.com/companies/492,Cohere,4930
+1.0,STARTUP,YCombinator,https://yc.com/companies/493,Mistral AI,4940
+1.0,STARTUP,YCombinator,https://yc.com/companies/494,Runway,4950
+1.0,STARTUP,YCombinator,https://yc.com/companies/495,OpenAI,4960
+1.0,STARTUP,YCombinator,https://yc.com/companies/496,Anthropic,4970
+1.0,STARTUP,YCombinator,https://yc.com/companies/497,Cohere,4980
+1.0,STARTUP,YCombinator,https://yc.com/companies/498,Mistral AI,4990
+1.0,STARTUP,YCombinator,https://yc.com/companies/499,Runway,5000
+1.0,STARTUP,YCombinator,https://yc.com/companies/500,OpenAI,5010
+1.0,STARTUP,YCombinator,https://yc.com/companies/501,Anthropic,5020
+1.0,STARTUP,YCombinator,https://yc.com/companies/502,Cohere,5030
+1.0,STARTUP,YCombinator,https://yc.com/companies/503,Mistral AI,5040
+1.0,STARTUP,YCombinator,https://yc.com/companies/504,Runway,5050
+1.0,STARTUP,YCombinator,https://yc.com/companies/505,OpenAI,5060
+1.0,STARTUP,YCombinator,https://yc.com/companies/506,Anthropic,5070
+1.0,STARTUP,YCombinator,https://yc.com/companies/507,Cohere,5080
+1.0,STARTUP,YCombinator,https://yc.com/companies/508,Mistral AI,5090
+1.0,STARTUP,YCombinator,https://yc.com/companies/509,Runway,5100
+1.0,STARTUP,YCombinator,https://yc.com/companies/510,OpenAI,5110
+1.0,STARTUP,YCombinator,https://yc.com/companies/511,Anthropic,5120
+1.0,STARTUP,YCombinator,https://yc.com/companies/512,Cohere,5130
+1.0,STARTUP,YCombinator,https://yc.com/companies/513,Mistral AI,5140
+1.0,STARTUP,YCombinator,https://yc.com/companies/514,Runway,5150
+1.0,STARTUP,YCombinator,https://yc.com/companies/515,OpenAI,5160
+1.0,STARTUP,YCombinator,https://yc.com/companies/516,Anthropic,5170
+1.0,STARTUP,YCombinator,https://yc.com/companies/517,Cohere,5180
+1.0,STARTUP,YCombinator,https://yc.com/companies/518,Mistral AI,5190
+1.0,STARTUP,YCombinator,https://yc.com/companies/519,Runway,5200
+1.0,STARTUP,YCombinator,https://yc.com/companies/520,OpenAI,5210
+1.0,STARTUP,YCombinator,https://yc.com/companies/521,Anthropic,5220
+1.0,STARTUP,YCombinator,https://yc.com/companies/522,Cohere,5230
+1.0,STARTUP,YCombinator,https://yc.com/companies/523,Mistral AI,5240
+1.0,STARTUP,YCombinator,https://yc.com/companies/524,Runway,5250
+1.0,STARTUP,YCombinator,https://yc.com/companies/525,OpenAI,5260
+1.0,STARTUP,YCombinator,https://yc.com/companies/526,Anthropic,5270
+1.0,STARTUP,YCombinator,https://yc.com/companies/527,Cohere,5280
+1.0,STARTUP,YCombinator,https://yc.com/companies/528,Mistral AI,5290
+1.0,STARTUP,YCombinator,https://yc.com/companies/529,Runway,5300
+1.0,STARTUP,YCombinator,https://yc.com/companies/530,OpenAI,5310
+1.0,STARTUP,YCombinator,https://yc.com/companies/531,Anthropic,5320
+1.0,STARTUP,YCombinator,https://yc.com/companies/532,Cohere,5330
+1.0,STARTUP,YCombinator,https://yc.com/companies/533,Mistral AI,5340
+1.0,STARTUP,YCombinator,https://yc.com/companies/534,Runway,5350
+1.0,STARTUP,YCombinator,https://yc.com/companies/535,OpenAI,5360
+1.0,STARTUP,YCombinator,https://yc.com/companies/536,Anthropic,5370
+1.0,STARTUP,YCombinator,https://yc.com/companies/537,Cohere,5380
+1.0,STARTUP,YCombinator,https://yc.com/companies/538,Mistral AI,5390
+1.0,STARTUP,YCombinator,https://yc.com/companies/539,Runway,5400
+1.0,STARTUP,YCombinator,https://yc.com/companies/540,OpenAI,5410
+1.0,STARTUP,YCombinator,https://yc.com/companies/541,Anthropic,5420
+1.0,STARTUP,YCombinator,https://yc.com/companies/542,Cohere,5430
+1.0,STARTUP,YCombinator,https://yc.com/companies/543,Mistral AI,5440
+1.0,STARTUP,YCombinator,https://yc.com/companies/544,Runway,5450
+1.0,STARTUP,YCombinator,https://yc.com/companies/545,OpenAI,5460
+1.0,STARTUP,YCombinator,https://yc.com/companies/546,Anthropic,5470
+1.0,STARTUP,YCombinator,https://yc.com/companies/547,Cohere,5480
+1.0,STARTUP,YCombinator,https://yc.com/companies/548,Mistral AI,5490
+1.0,STARTUP,YCombinator,https://yc.com/companies/549,Runway,5500
+1.0,STARTUP,YCombinator,https://yc.com/companies/550,OpenAI,5510
+1.0,STARTUP,YCombinator,https://yc.com/companies/551,Anthropic,5520
+1.0,STARTUP,YCombinator,https://yc.com/companies/552,Cohere,5530
+1.0,STARTUP,YCombinator,https://yc.com/companies/553,Mistral AI,5540
+1.0,STARTUP,YCombinator,https://yc.com/companies/554,Runway,5550
+1.0,STARTUP,YCombinator,https://yc.com/companies/555,OpenAI,5560
+1.0,STARTUP,YCombinator,https://yc.com/companies/556,Anthropic,5570
+1.0,STARTUP,YCombinator,https://yc.com/companies/557,Cohere,5580
+1.0,STARTUP,YCombinator,https://yc.com/companies/558,Mistral AI,5590
+1.0,STARTUP,YCombinator,https://yc.com/companies/559,Runway,5600
+1.0,STARTUP,YCombinator,https://yc.com/companies/560,OpenAI,5610
+1.0,STARTUP,YCombinator,https://yc.com/companies/561,Anthropic,5620
+1.0,STARTUP,YCombinator,https://yc.com/companies/562,Cohere,5630
+1.0,STARTUP,YCombinator,https://yc.com/companies/563,Mistral AI,5640
+1.0,STARTUP,YCombinator,https://yc.com/companies/564,Runway,5650
+1.0,STARTUP,YCombinator,https://yc.com/companies/565,OpenAI,5660
+1.0,STARTUP,YCombinator,https://yc.com/companies/566,Anthropic,5670
+1.0,STARTUP,YCombinator,https://yc.com/companies/567,Cohere,5680
+1.0,STARTUP,YCombinator,https://yc.com/companies/568,Mistral AI,5690
+1.0,STARTUP,YCombinator,https://yc.com/companies/569,Runway,5700
+1.0,STARTUP,YCombinator,https://yc.com/companies/570,OpenAI,5710
+1.0,STARTUP,YCombinator,https://yc.com/companies/571,Anthropic,5720
+1.0,STARTUP,YCombinator,https://yc.com/companies/572,Cohere,5730
+1.0,STARTUP,YCombinator,https://yc.com/companies/573,Mistral AI,5740
+1.0,STARTUP,YCombinator,https://yc.com/companies/574,Runway,5750
+1.0,STARTUP,YCombinator,https://yc.com/companies/575,OpenAI,5760
+1.0,STARTUP,YCombinator,https://yc.com/companies/576,Anthropic,5770
+1.0,STARTUP,YCombinator,https://yc.com/companies/577,Cohere,5780
+1.0,STARTUP,YCombinator,https://yc.com/companies/578,Mistral AI,5790
+1.0,STARTUP,YCombinator,https://yc.com/companies/579,Runway,5800
+1.0,STARTUP,YCombinator,https://yc.com/companies/580,OpenAI,5810
+1.0,STARTUP,YCombinator,https://yc.com/companies/581,Anthropic,5820
+1.0,STARTUP,YCombinator,https://yc.com/companies/582,Cohere,5830
+1.0,STARTUP,YCombinator,https://yc.com/companies/583,Mistral AI,5840
+1.0,STARTUP,YCombinator,https://yc.com/companies/584,Runway,5850
+1.0,STARTUP,YCombinator,https://yc.com/companies/585,OpenAI,5860
+1.0,STARTUP,YCombinator,https://yc.com/companies/586,Anthropic,5870
+1.0,STARTUP,YCombinator,https://yc.com/companies/587,Cohere,5880
+1.0,STARTUP,YCombinator,https://yc.com/companies/588,Mistral AI,5890
+1.0,STARTUP,YCombinator,https://yc.com/companies/589,Runway,5900
+1.0,STARTUP,YCombinator,https://yc.com/companies/590,OpenAI,5910
+1.0,STARTUP,YCombinator,https://yc.com/companies/591,Anthropic,5920
+1.0,STARTUP,YCombinator,https://yc.com/companies/592,Cohere,5930
+1.0,STARTUP,YCombinator,https://yc.com/companies/593,Mistral AI,5940
+1.0,STARTUP,YCombinator,https://yc.com/companies/594,Runway,5950
+1.0,STARTUP,YCombinator,https://yc.com/companies/595,OpenAI,5960
+1.0,STARTUP,YCombinator,https://yc.com/companies/596,Anthropic,5970
+1.0,STARTUP,YCombinator,https://yc.com/companies/597,Cohere,5980
+1.0,STARTUP,YCombinator,https://yc.com/companies/598,Mistral AI,5990
+1.0,STARTUP,YCombinator,https://yc.com/companies/599,Runway,6000
+1.0,STARTUP,YCombinator,https://yc.com/companies/600,OpenAI,6010
+1.0,STARTUP,YCombinator,https://yc.com/companies/601,Anthropic,6020
+1.0,STARTUP,YCombinator,https://yc.com/companies/602,Cohere,6030
+1.0,STARTUP,YCombinator,https://yc.com/companies/603,Mistral AI,6040
+1.0,STARTUP,YCombinator,https://yc.com/companies/604,Runway,6050
+1.0,STARTUP,YCombinator,https://yc.com/companies/605,OpenAI,6060
+1.0,STARTUP,YCombinator,https://yc.com/companies/606,Anthropic,6070
+1.0,STARTUP,YCombinator,https://yc.com/companies/607,Cohere,6080
+1.0,STARTUP,YCombinator,https://yc.com/companies/608,Mistral AI,6090
+1.0,STARTUP,YCombinator,https://yc.com/companies/609,Runway,6100
+1.0,STARTUP,YCombinator,https://yc.com/companies/610,OpenAI,6110
+1.0,STARTUP,YCombinator,https://yc.com/companies/611,Anthropic,6120
+1.0,STARTUP,YCombinator,https://yc.com/companies/612,Cohere,6130
+1.0,STARTUP,YCombinator,https://yc.com/companies/613,Mistral AI,6140
+1.0,STARTUP,YCombinator,https://yc.com/companies/614,Runway,6150
+1.0,STARTUP,YCombinator,https://yc.com/companies/615,OpenAI,6160
+1.0,STARTUP,YCombinator,https://yc.com/companies/616,Anthropic,6170
+1.0,STARTUP,YCombinator,https://yc.com/companies/617,Cohere,6180
+1.0,STARTUP,YCombinator,https://yc.com/companies/618,Mistral AI,6190
+1.0,STARTUP,YCombinator,https://yc.com/companies/619,Runway,6200
+1.0,STARTUP,YCombinator,https://yc.com/companies/620,OpenAI,6210
+1.0,STARTUP,YCombinator,https://yc.com/companies/621,Anthropic,6220
+1.0,STARTUP,YCombinator,https://yc.com/companies/622,Cohere,6230
+1.0,STARTUP,YCombinator,https://yc.com/companies/623,Mistral AI,6240
+1.0,STARTUP,YCombinator,https://yc.com/companies/624,Runway,6250
+1.0,STARTUP,YCombinator,https://yc.com/companies/625,OpenAI,6260
+1.0,STARTUP,YCombinator,https://yc.com/companies/626,Anthropic,6270
+1.0,STARTUP,YCombinator,https://yc.com/companies/627,Cohere,6280
+1.0,STARTUP,YCombinator,https://yc.com/companies/628,Mistral AI,6290
+1.0,STARTUP,YCombinator,https://yc.com/companies/629,Runway,6300
+1.0,STARTUP,YCombinator,https://yc.com/companies/630,OpenAI,6310
+1.0,STARTUP,YCombinator,https://yc.com/companies/631,Anthropic,6320
+1.0,STARTUP,YCombinator,https://yc.com/companies/632,Cohere,6330
+1.0,STARTUP,YCombinator,https://yc.com/companies/633,Mistral AI,6340
+1.0,STARTUP,YCombinator,https://yc.com/companies/634,Runway,6350
+1.0,STARTUP,YCombinator,https://yc.com/companies/635,OpenAI,6360
+1.0,STARTUP,YCombinator,https://yc.com/companies/636,Anthropic,6370
+1.0,STARTUP,YCombinator,https://yc.com/companies/637,Cohere,6380
+1.0,STARTUP,YCombinator,https://yc.com/companies/638,Mistral AI,6390
+1.0,STARTUP,YCombinator,https://yc.com/companies/639,Runway,6400
+1.0,STARTUP,YCombinator,https://yc.com/companies/640,OpenAI,6410
+1.0,STARTUP,YCombinator,https://yc.com/companies/641,Anthropic,6420
+1.0,STARTUP,YCombinator,https://yc.com/companies/642,Cohere,6430
+1.0,STARTUP,YCombinator,https://yc.com/companies/643,Mistral AI,6440
+1.0,STARTUP,YCombinator,https://yc.com/companies/644,Runway,6450
+1.0,STARTUP,YCombinator,https://yc.com/companies/645,OpenAI,6460
+1.0,STARTUP,YCombinator,https://yc.com/companies/646,Anthropic,6470
+1.0,STARTUP,YCombinator,https://yc.com/companies/647,Cohere,6480
+1.0,STARTUP,YCombinator,https://yc.com/companies/648,Mistral AI,6490
+1.0,STARTUP,YCombinator,https://yc.com/companies/649,Runway,6500
+1.0,STARTUP,YCombinator,https://yc.com/companies/650,OpenAI,6510
+1.0,STARTUP,YCombinator,https://yc.com/companies/651,Anthropic,6520
+1.0,STARTUP,YCombinator,https://yc.com/companies/652,Cohere,6530
+1.0,STARTUP,YCombinator,https://yc.com/companies/653,Mistral AI,6540
+1.0,STARTUP,YCombinator,https://yc.com/companies/654,Runway,6550
+1.0,STARTUP,YCombinator,https://yc.com/companies/655,OpenAI,6560
+1.0,STARTUP,YCombinator,https://yc.com/companies/656,Anthropic,6570
+1.0,STARTUP,YCombinator,https://yc.com/companies/657,Cohere,6580
+1.0,STARTUP,YCombinator,https://yc.com/companies/658,Mistral AI,6590
+1.0,STARTUP,YCombinator,https://yc.com/companies/659,Runway,6600
+1.0,STARTUP,YCombinator,https://yc.com/companies/660,OpenAI,6610
+1.0,STARTUP,YCombinator,https://yc.com/companies/661,Anthropic,6620
+1.0,STARTUP,YCombinator,https://yc.com/companies/662,Cohere,6630
+1.0,STARTUP,YCombinator,https://yc.com/companies/663,Mistral AI,6640
+1.0,STARTUP,YCombinator,https://yc.com/companies/664,Runway,6650
+1.0,STARTUP,YCombinator,https://yc.com/companies/665,OpenAI,6660
+1.0,STARTUP,YCombinator,https://yc.com/companies/666,Anthropic,6670
+1.0,STARTUP,YCombinator,https://yc.com/companies/667,Cohere,6680
+1.0,STARTUP,YCombinator,https://yc.com/companies/668,Mistral AI,6690
+1.0,STARTUP,YCombinator,https://yc.com/companies/669,Runway,6700
+1.0,STARTUP,YCombinator,https://yc.com/companies/670,OpenAI,6710
+1.0,STARTUP,YCombinator,https://yc.com/companies/671,Anthropic,6720
+1.0,STARTUP,YCombinator,https://yc.com/companies/672,Cohere,6730
+1.0,STARTUP,YCombinator,https://yc.com/companies/673,Mistral AI,6740
+1.0,STARTUP,YCombinator,https://yc.com/companies/674,Runway,6750
+1.0,STARTUP,YCombinator,https://yc.com/companies/675,OpenAI,6760
+1.0,STARTUP,YCombinator,https://yc.com/companies/676,Anthropic,6770
+1.0,STARTUP,YCombinator,https://yc.com/companies/677,Cohere,6780
+1.0,STARTUP,YCombinator,https://yc.com/companies/678,Mistral AI,6790
+1.0,STARTUP,YCombinator,https://yc.com/companies/679,Runway,6800
+1.0,STARTUP,YCombinator,https://yc.com/companies/680,OpenAI,6810
+1.0,STARTUP,YCombinator,https://yc.com/companies/681,Anthropic,6820
+1.0,STARTUP,YCombinator,https://yc.com/companies/682,Cohere,6830
+1.0,STARTUP,YCombinator,https://yc.com/companies/683,Mistral AI,6840
+1.0,STARTUP,YCombinator,https://yc.com/companies/684,Runway,6850
+1.0,STARTUP,YCombinator,https://yc.com/companies/685,OpenAI,6860
+1.0,STARTUP,YCombinator,https://yc.com/companies/686,Anthropic,6870
+1.0,STARTUP,YCombinator,https://yc.com/companies/687,Cohere,6880
+1.0,STARTUP,YCombinator,https://yc.com/companies/688,Mistral AI,6890
+1.0,STARTUP,YCombinator,https://yc.com/companies/689,Runway,6900
+1.0,STARTUP,YCombinator,https://yc.com/companies/690,OpenAI,6910
+1.0,STARTUP,YCombinator,https://yc.com/companies/691,Anthropic,6920
+1.0,STARTUP,YCombinator,https://yc.com/companies/692,Cohere,6930
+1.0,STARTUP,YCombinator,https://yc.com/companies/693,Mistral AI,6940
+1.0,STARTUP,YCombinator,https://yc.com/companies/694,Runway,6950
+1.0,STARTUP,YCombinator,https://yc.com/companies/695,OpenAI,6960
+1.0,STARTUP,YCombinator,https://yc.com/companies/696,Anthropic,6970
+1.0,STARTUP,YCombinator,https://yc.com/companies/697,Cohere,6980
+1.0,STARTUP,YCombinator,https://yc.com/companies/698,Mistral AI,6990
+1.0,STARTUP,YCombinator,https://yc.com/companies/699,Runway,7000
+1.0,STARTUP,YCombinator,https://yc.com/companies/700,OpenAI,7010
+1.0,STARTUP,YCombinator,https://yc.com/companies/701,Anthropic,7020
+1.0,STARTUP,YCombinator,https://yc.com/companies/702,Cohere,7030
+1.0,STARTUP,YCombinator,https://yc.com/companies/703,Mistral AI,7040
+1.0,STARTUP,YCombinator,https://yc.com/companies/704,Runway,7050
+1.0,STARTUP,YCombinator,https://yc.com/companies/705,OpenAI,7060
+1.0,STARTUP,YCombinator,https://yc.com/companies/706,Anthropic,7070
+1.0,STARTUP,YCombinator,https://yc.com/companies/707,Cohere,7080
+1.0,STARTUP,YCombinator,https://yc.com/companies/708,Mistral AI,7090
+1.0,STARTUP,YCombinator,https://yc.com/companies/709,Runway,7100
+1.0,STARTUP,YCombinator,https://yc.com/companies/710,OpenAI,7110
+1.0,STARTUP,YCombinator,https://yc.com/companies/711,Anthropic,7120
+1.0,STARTUP,YCombinator,https://yc.com/companies/712,Cohere,7130
+1.0,STARTUP,YCombinator,https://yc.com/companies/713,Mistral AI,7140
+1.0,STARTUP,YCombinator,https://yc.com/companies/714,Runway,7150
+1.0,STARTUP,YCombinator,https://yc.com/companies/715,OpenAI,7160
+1.0,STARTUP,YCombinator,https://yc.com/companies/716,Anthropic,7170
+1.0,STARTUP,YCombinator,https://yc.com/companies/717,Cohere,7180
+1.0,STARTUP,YCombinator,https://yc.com/companies/718,Mistral AI,7190
+1.0,STARTUP,YCombinator,https://yc.com/companies/719,Runway,7200
+1.0,STARTUP,YCombinator,https://yc.com/companies/720,OpenAI,7210
+1.0,STARTUP,YCombinator,https://yc.com/companies/721,Anthropic,7220
+1.0,STARTUP,YCombinator,https://yc.com/companies/722,Cohere,7230
+1.0,STARTUP,YCombinator,https://yc.com/companies/723,Mistral AI,7240
+1.0,STARTUP,YCombinator,https://yc.com/companies/724,Runway,7250
+1.0,STARTUP,YCombinator,https://yc.com/companies/725,OpenAI,7260
+1.0,STARTUP,YCombinator,https://yc.com/companies/726,Anthropic,7270
+1.0,STARTUP,YCombinator,https://yc.com/companies/727,Cohere,7280
+1.0,STARTUP,YCombinator,https://yc.com/companies/728,Mistral AI,7290
+1.0,STARTUP,YCombinator,https://yc.com/companies/729,Runway,7300
+1.0,STARTUP,YCombinator,https://yc.com/companies/730,OpenAI,7310
+1.0,STARTUP,YCombinator,https://yc.com/companies/731,Anthropic,7320
+1.0,STARTUP,YCombinator,https://yc.com/companies/732,Cohere,7330
+1.0,STARTUP,YCombinator,https://yc.com/companies/733,Mistral AI,7340
+1.0,STARTUP,YCombinator,https://yc.com/companies/734,Runway,7350
+1.0,STARTUP,YCombinator,https://yc.com/companies/735,OpenAI,7360
+1.0,STARTUP,YCombinator,https://yc.com/companies/736,Anthropic,7370
+1.0,STARTUP,YCombinator,https://yc.com/companies/737,Cohere,7380
+1.0,STARTUP,YCombinator,https://yc.com/companies/738,Mistral AI,7390
+1.0,STARTUP,YCombinator,https://yc.com/companies/739,Runway,7400
+1.0,STARTUP,YCombinator,https://yc.com/companies/740,OpenAI,7410
+1.0,STARTUP,YCombinator,https://yc.com/companies/741,Anthropic,7420
+1.0,STARTUP,YCombinator,https://yc.com/companies/742,Cohere,7430
+1.0,STARTUP,YCombinator,https://yc.com/companies/743,Mistral AI,7440
+1.0,STARTUP,YCombinator,https://yc.com/companies/744,Runway,7450
+1.0,STARTUP,YCombinator,https://yc.com/companies/745,OpenAI,7460
+1.0,STARTUP,YCombinator,https://yc.com/companies/746,Anthropic,7470
+1.0,STARTUP,YCombinator,https://yc.com/companies/747,Cohere,7480
+1.0,STARTUP,YCombinator,https://yc.com/companies/748,Mistral AI,7490
+1.0,STARTUP,YCombinator,https://yc.com/companies/749,Runway,7500
+1.0,STARTUP,YCombinator,https://yc.com/companies/750,OpenAI,7510
+1.0,STARTUP,YCombinator,https://yc.com/companies/751,Anthropic,7520
+1.0,STARTUP,YCombinator,https://yc.com/companies/752,Cohere,7530
+1.0,STARTUP,YCombinator,https://yc.com/companies/753,Mistral AI,7540
+1.0,STARTUP,YCombinator,https://yc.com/companies/754,Runway,7550
+1.0,STARTUP,YCombinator,https://yc.com/companies/755,OpenAI,7560
+1.0,STARTUP,YCombinator,https://yc.com/companies/756,Anthropic,7570
+1.0,STARTUP,YCombinator,https://yc.com/companies/757,Cohere,7580
+1.0,STARTUP,YCombinator,https://yc.com/companies/758,Mistral AI,7590
+1.0,STARTUP,YCombinator,https://yc.com/companies/759,Runway,7600
+1.0,STARTUP,YCombinator,https://yc.com/companies/760,OpenAI,7610
+1.0,STARTUP,YCombinator,https://yc.com/companies/761,Anthropic,7620
+1.0,STARTUP,YCombinator,https://yc.com/companies/762,Cohere,7630
+1.0,STARTUP,YCombinator,https://yc.com/companies/763,Mistral AI,7640
+1.0,STARTUP,YCombinator,https://yc.com/companies/764,Runway,7650
+1.0,STARTUP,YCombinator,https://yc.com/companies/765,OpenAI,7660
+1.0,STARTUP,YCombinator,https://yc.com/companies/766,Anthropic,7670
+1.0,STARTUP,YCombinator,https://yc.com/companies/767,Cohere,7680
+1.0,STARTUP,YCombinator,https://yc.com/companies/768,Mistral AI,7690
+1.0,STARTUP,YCombinator,https://yc.com/companies/769,Runway,7700
+1.0,STARTUP,YCombinator,https://yc.com/companies/770,OpenAI,7710
+1.0,STARTUP,YCombinator,https://yc.com/companies/771,Anthropic,7720
+1.0,STARTUP,YCombinator,https://yc.com/companies/772,Cohere,7730
+1.0,STARTUP,YCombinator,https://yc.com/companies/773,Mistral AI,7740
+1.0,STARTUP,YCombinator,https://yc.com/companies/774,Runway,7750
+1.0,STARTUP,YCombinator,https://yc.com/companies/775,OpenAI,7760
+1.0,STARTUP,YCombinator,https://yc.com/companies/776,Anthropic,7770
+1.0,STARTUP,YCombinator,https://yc.com/companies/777,Cohere,7780
+1.0,STARTUP,YCombinator,https://yc.com/companies/778,Mistral AI,7790
+1.0,STARTUP,YCombinator,https://yc.com/companies/779,Runway,7800
+1.0,STARTUP,YCombinator,https://yc.com/companies/780,OpenAI,7810
+1.0,STARTUP,YCombinator,https://yc.com/companies/781,Anthropic,7820
+1.0,STARTUP,YCombinator,https://yc.com/companies/782,Cohere,7830
+1.0,STARTUP,YCombinator,https://yc.com/companies/783,Mistral AI,7840
+1.0,STARTUP,YCombinator,https://yc.com/companies/784,Runway,7850
+1.0,STARTUP,YCombinator,https://yc.com/companies/785,OpenAI,7860
+1.0,STARTUP,YCombinator,https://yc.com/companies/786,Anthropic,7870
+1.0,STARTUP,YCombinator,https://yc.com/companies/787,Cohere,7880
+1.0,STARTUP,YCombinator,https://yc.com/companies/788,Mistral AI,7890
+1.0,STARTUP,YCombinator,https://yc.com/companies/789,Runway,7900
+1.0,STARTUP,YCombinator,https://yc.com/companies/790,OpenAI,7910
+1.0,STARTUP,YCombinator,https://yc.com/companies/791,Anthropic,7920
+1.0,STARTUP,YCombinator,https://yc.com/companies/792,Cohere,7930
+1.0,STARTUP,YCombinator,https://yc.com/companies/793,Mistral AI,7940
+1.0,STARTUP,YCombinator,https://yc.com/companies/794,Runway,7950
+1.0,STARTUP,YCombinator,https://yc.com/companies/795,OpenAI,7960
+1.0,STARTUP,YCombinator,https://yc.com/companies/796,Anthropic,7970
+1.0,STARTUP,YCombinator,https://yc.com/companies/797,Cohere,7980
+1.0,STARTUP,YCombinator,https://yc.com/companies/798,Mistral AI,7990
+1.0,STARTUP,YCombinator,https://yc.com/companies/799,Runway,8000
+1.0,STARTUP,YCombinator,https://yc.com/companies/800,OpenAI,8010
+1.0,STARTUP,YCombinator,https://yc.com/companies/801,Anthropic,8020
+1.0,STARTUP,YCombinator,https://yc.com/companies/802,Cohere,8030
+1.0,STARTUP,YCombinator,https://yc.com/companies/803,Mistral AI,8040
+1.0,STARTUP,YCombinator,https://yc.com/companies/804,Runway,8050
+1.0,STARTUP,YCombinator,https://yc.com/companies/805,OpenAI,8060
+1.0,STARTUP,YCombinator,https://yc.com/companies/806,Anthropic,8070
+1.0,STARTUP,YCombinator,https://yc.com/companies/807,Cohere,8080
+1.0,STARTUP,YCombinator,https://yc.com/companies/808,Mistral AI,8090
+1.0,STARTUP,YCombinator,https://yc.com/companies/809,Runway,8100
+1.0,STARTUP,YCombinator,https://yc.com/companies/810,OpenAI,8110
+1.0,STARTUP,YCombinator,https://yc.com/companies/811,Anthropic,8120
+1.0,STARTUP,YCombinator,https://yc.com/companies/812,Cohere,8130
+1.0,STARTUP,YCombinator,https://yc.com/companies/813,Mistral AI,8140
+1.0,STARTUP,YCombinator,https://yc.com/companies/814,Runway,8150
+1.0,STARTUP,YCombinator,https://yc.com/companies/815,OpenAI,8160
+1.0,STARTUP,YCombinator,https://yc.com/companies/816,Anthropic,8170
+1.0,STARTUP,YCombinator,https://yc.com/companies/817,Cohere,8180
+1.0,STARTUP,YCombinator,https://yc.com/companies/818,Mistral AI,8190
+1.0,STARTUP,YCombinator,https://yc.com/companies/819,Runway,8200
+1.0,STARTUP,YCombinator,https://yc.com/companies/820,OpenAI,8210
+1.0,STARTUP,YCombinator,https://yc.com/companies/821,Anthropic,8220
+1.0,STARTUP,YCombinator,https://yc.com/companies/822,Cohere,8230
+1.0,STARTUP,YCombinator,https://yc.com/companies/823,Mistral AI,8240
+1.0,STARTUP,YCombinator,https://yc.com/companies/824,Runway,8250
+1.0,STARTUP,YCombinator,https://yc.com/companies/825,OpenAI,8260
+1.0,STARTUP,YCombinator,https://yc.com/companies/826,Anthropic,8270
+1.0,STARTUP,YCombinator,https://yc.com/companies/827,Cohere,8280
+1.0,STARTUP,YCombinator,https://yc.com/companies/828,Mistral AI,8290
+1.0,STARTUP,YCombinator,https://yc.com/companies/829,Runway,8300
+1.0,STARTUP,YCombinator,https://yc.com/companies/830,OpenAI,8310
+1.0,STARTUP,YCombinator,https://yc.com/companies/831,Anthropic,8320
+1.0,STARTUP,YCombinator,https://yc.com/companies/832,Cohere,8330
+1.0,STARTUP,YCombinator,https://yc.com/companies/833,Mistral AI,8340
+1.0,STARTUP,YCombinator,https://yc.com/companies/834,Runway,8350
+1.0,STARTUP,YCombinator,https://yc.com/companies/835,OpenAI,8360
+1.0,STARTUP,YCombinator,https://yc.com/companies/836,Anthropic,8370
+1.0,STARTUP,YCombinator,https://yc.com/companies/837,Cohere,8380
+1.0,STARTUP,YCombinator,https://yc.com/companies/838,Mistral AI,8390
+1.0,STARTUP,YCombinator,https://yc.com/companies/839,Runway,8400
+1.0,STARTUP,YCombinator,https://yc.com/companies/840,OpenAI,8410
+1.0,STARTUP,YCombinator,https://yc.com/companies/841,Anthropic,8420
+1.0,STARTUP,YCombinator,https://yc.com/companies/842,Cohere,8430
+1.0,STARTUP,YCombinator,https://yc.com/companies/843,Mistral AI,8440
+1.0,STARTUP,YCombinator,https://yc.com/companies/844,Runway,8450
+1.0,STARTUP,YCombinator,https://yc.com/companies/845,OpenAI,8460
+1.0,STARTUP,YCombinator,https://yc.com/companies/846,Anthropic,8470
+1.0,STARTUP,YCombinator,https://yc.com/companies/847,Cohere,8480
+1.0,STARTUP,YCombinator,https://yc.com/companies/848,Mistral AI,8490
+1.0,STARTUP,YCombinator,https://yc.com/companies/849,Runway,8500
+1.0,STARTUP,YCombinator,https://yc.com/companies/850,OpenAI,8510
+1.0,STARTUP,YCombinator,https://yc.com/companies/851,Anthropic,8520
+1.0,STARTUP,YCombinator,https://yc.com/companies/852,Cohere,8530
+1.0,STARTUP,YCombinator,https://yc.com/companies/853,Mistral AI,8540
+1.0,STARTUP,YCombinator,https://yc.com/companies/854,Runway,8550
+1.0,STARTUP,YCombinator,https://yc.com/companies/855,OpenAI,8560
+1.0,STARTUP,YCombinator,https://yc.com/companies/856,Anthropic,8570
+1.0,STARTUP,YCombinator,https://yc.com/companies/857,Cohere,8580
+1.0,STARTUP,YCombinator,https://yc.com/companies/858,Mistral AI,8590
+1.0,STARTUP,YCombinator,https://yc.com/companies/859,Runway,8600
+1.0,STARTUP,YCombinator,https://yc.com/companies/860,OpenAI,8610
+1.0,STARTUP,YCombinator,https://yc.com/companies/861,Anthropic,8620
+1.0,STARTUP,YCombinator,https://yc.com/companies/862,Cohere,8630
+1.0,STARTUP,YCombinator,https://yc.com/companies/863,Mistral AI,8640
+1.0,STARTUP,YCombinator,https://yc.com/companies/864,Runway,8650
+1.0,STARTUP,YCombinator,https://yc.com/companies/865,OpenAI,8660
+1.0,STARTUP,YCombinator,https://yc.com/companies/866,Anthropic,8670
+1.0,STARTUP,YCombinator,https://yc.com/companies/867,Cohere,8680
+1.0,STARTUP,YCombinator,https://yc.com/companies/868,Mistral AI,8690
+1.0,STARTUP,YCombinator,https://yc.com/companies/869,Runway,8700
+1.0,STARTUP,YCombinator,https://yc.com/companies/870,OpenAI,8710
+1.0,STARTUP,YCombinator,https://yc.com/companies/871,Anthropic,8720
+1.0,STARTUP,YCombinator,https://yc.com/companies/872,Cohere,8730
+1.0,STARTUP,YCombinator,https://yc.com/companies/873,Mistral AI,8740
+1.0,STARTUP,YCombinator,https://yc.com/companies/874,Runway,8750
+1.0,STARTUP,YCombinator,https://yc.com/companies/875,OpenAI,8760
+1.0,STARTUP,YCombinator,https://yc.com/companies/876,Anthropic,8770
+1.0,STARTUP,YCombinator,https://yc.com/companies/877,Cohere,8780
+1.0,STARTUP,YCombinator,https://yc.com/companies/878,Mistral AI,8790
+1.0,STARTUP,YCombinator,https://yc.com/companies/879,Runway,8800
+1.0,STARTUP,YCombinator,https://yc.com/companies/880,OpenAI,8810
+1.0,STARTUP,YCombinator,https://yc.com/companies/881,Anthropic,8820
+1.0,STARTUP,YCombinator,https://yc.com/companies/882,Cohere,8830
+1.0,STARTUP,YCombinator,https://yc.com/companies/883,Mistral AI,8840
+1.0,STARTUP,YCombinator,https://yc.com/companies/884,Runway,8850
+1.0,STARTUP,YCombinator,https://yc.com/companies/885,OpenAI,8860
+1.0,STARTUP,YCombinator,https://yc.com/companies/886,Anthropic,8870
+1.0,STARTUP,YCombinator,https://yc.com/companies/887,Cohere,8880
+1.0,STARTUP,YCombinator,https://yc.com/companies/888,Mistral AI,8890
+1.0,STARTUP,YCombinator,https://yc.com/companies/889,Runway,8900
+1.0,STARTUP,YCombinator,https://yc.com/companies/890,OpenAI,8910
+1.0,STARTUP,YCombinator,https://yc.com/companies/891,Anthropic,8920
+1.0,STARTUP,YCombinator,https://yc.com/companies/892,Cohere,8930
+1.0,STARTUP,YCombinator,https://yc.com/companies/893,Mistral AI,8940
+1.0,STARTUP,YCombinator,https://yc.com/companies/894,Runway,8950
+1.0,STARTUP,YCombinator,https://yc.com/companies/895,OpenAI,8960
+1.0,STARTUP,YCombinator,https://yc.com/companies/896,Anthropic,8970
+1.0,STARTUP,YCombinator,https://yc.com/companies/897,Cohere,8980
+1.0,STARTUP,YCombinator,https://yc.com/companies/898,Mistral AI,8990
+1.0,STARTUP,YCombinator,https://yc.com/companies/899,Runway,9000
+1.0,STARTUP,YCombinator,https://yc.com/companies/900,OpenAI,9010
+1.0,STARTUP,YCombinator,https://yc.com/companies/901,Anthropic,9020
+1.0,STARTUP,YCombinator,https://yc.com/companies/902,Cohere,9030
+1.0,STARTUP,YCombinator,https://yc.com/companies/903,Mistral AI,9040
+1.0,STARTUP,YCombinator,https://yc.com/companies/904,Runway,9050
+1.0,STARTUP,YCombinator,https://yc.com/companies/905,OpenAI,9060
+1.0,STARTUP,YCombinator,https://yc.com/companies/906,Anthropic,9070
+1.0,STARTUP,YCombinator,https://yc.com/companies/907,Cohere,9080
+1.0,STARTUP,YCombinator,https://yc.com/companies/908,Mistral AI,9090
+1.0,STARTUP,YCombinator,https://yc.com/companies/909,Runway,9100
+1.0,STARTUP,YCombinator,https://yc.com/companies/910,OpenAI,9110
+1.0,STARTUP,YCombinator,https://yc.com/companies/911,Anthropic,9120
+1.0,STARTUP,YCombinator,https://yc.com/companies/912,Cohere,9130
+1.0,STARTUP,YCombinator,https://yc.com/companies/913,Mistral AI,9140
+1.0,STARTUP,YCombinator,https://yc.com/companies/914,Runway,9150
+1.0,STARTUP,YCombinator,https://yc.com/companies/915,OpenAI,9160
+1.0,STARTUP,YCombinator,https://yc.com/companies/916,Anthropic,9170
+1.0,STARTUP,YCombinator,https://yc.com/companies/917,Cohere,9180
+1.0,STARTUP,YCombinator,https://yc.com/companies/918,Mistral AI,9190
+1.0,STARTUP,YCombinator,https://yc.com/companies/919,Runway,9200
+1.0,STARTUP,YCombinator,https://yc.com/companies/920,OpenAI,9210
+1.0,STARTUP,YCombinator,https://yc.com/companies/921,Anthropic,9220
+1.0,STARTUP,YCombinator,https://yc.com/companies/922,Cohere,9230
+1.0,STARTUP,YCombinator,https://yc.com/companies/923,Mistral AI,9240
+1.0,STARTUP,YCombinator,https://yc.com/companies/924,Runway,9250
+1.0,STARTUP,YCombinator,https://yc.com/companies/925,OpenAI,9260
+1.0,STARTUP,YCombinator,https://yc.com/companies/926,Anthropic,9270
+1.0,STARTUP,YCombinator,https://yc.com/companies/927,Cohere,9280
+1.0,STARTUP,YCombinator,https://yc.com/companies/928,Mistral AI,9290
+1.0,STARTUP,YCombinator,https://yc.com/companies/929,Runway,9300
+1.0,STARTUP,YCombinator,https://yc.com/companies/930,OpenAI,9310
+1.0,STARTUP,YCombinator,https://yc.com/companies/931,Anthropic,9320
+1.0,STARTUP,YCombinator,https://yc.com/companies/932,Cohere,9330
+1.0,STARTUP,YCombinator,https://yc.com/companies/933,Mistral AI,9340
+1.0,STARTUP,YCombinator,https://yc.com/companies/934,Runway,9350
+1.0,STARTUP,YCombinator,https://yc.com/companies/935,OpenAI,9360
+1.0,STARTUP,YCombinator,https://yc.com/companies/936,Anthropic,9370
+1.0,STARTUP,YCombinator,https://yc.com/companies/937,Cohere,9380
+1.0,STARTUP,YCombinator,https://yc.com/companies/938,Mistral AI,9390
+1.0,STARTUP,YCombinator,https://yc.com/companies/939,Runway,9400
+1.0,STARTUP,YCombinator,https://yc.com/companies/940,OpenAI,9410
+1.0,STARTUP,YCombinator,https://yc.com/companies/941,Anthropic,9420
+1.0,STARTUP,YCombinator,https://yc.com/companies/942,Cohere,9430
+1.0,STARTUP,YCombinator,https://yc.com/companies/943,Mistral AI,9440
+1.0,STARTUP,YCombinator,https://yc.com/companies/944,Runway,9450
+1.0,STARTUP,YCombinator,https://yc.com/companies/945,OpenAI,9460
+1.0,STARTUP,YCombinator,https://yc.com/companies/946,Anthropic,9470
+1.0,STARTUP,YCombinator,https://yc.com/companies/947,Cohere,9480
+1.0,STARTUP,YCombinator,https://yc.com/companies/948,Mistral AI,9490
+1.0,STARTUP,YCombinator,https://yc.com/companies/949,Runway,9500
+1.0,STARTUP,YCombinator,https://yc.com/companies/950,OpenAI,9510
+1.0,STARTUP,YCombinator,https://yc.com/companies/951,Anthropic,9520
+1.0,STARTUP,YCombinator,https://yc.com/companies/952,Cohere,9530
+1.0,STARTUP,YCombinator,https://yc.com/companies/953,Mistral AI,9540
+1.0,STARTUP,YCombinator,https://yc.com/companies/954,Runway,9550
+1.0,STARTUP,YCombinator,https://yc.com/companies/955,OpenAI,9560
+1.0,STARTUP,YCombinator,https://yc.com/companies/956,Anthropic,9570
+1.0,STARTUP,YCombinator,https://yc.com/companies/957,Cohere,9580
+1.0,STARTUP,YCombinator,https://yc.com/companies/958,Mistral AI,9590
+1.0,STARTUP,YCombinator,https://yc.com/companies/959,Runway,9600
+1.0,STARTUP,YCombinator,https://yc.com/companies/960,OpenAI,9610
+1.0,STARTUP,YCombinator,https://yc.com/companies/961,Anthropic,9620
+1.0,STARTUP,YCombinator,https://yc.com/companies/962,Cohere,9630
+1.0,STARTUP,YCombinator,https://yc.com/companies/963,Mistral AI,9640
+1.0,STARTUP,YCombinator,https://yc.com/companies/964,Runway,9650
+1.0,STARTUP,YCombinator,https://yc.com/companies/965,OpenAI,9660
+1.0,STARTUP,YCombinator,https://yc.com/companies/966,Anthropic,9670
+1.0,STARTUP,YCombinator,https://yc.com/companies/967,Cohere,9680
+1.0,STARTUP,YCombinator,https://yc.com/companies/968,Mistral AI,9690
+1.0,STARTUP,YCombinator,https://yc.com/companies/969,Runway,9700
+1.0,STARTUP,YCombinator,https://yc.com/companies/970,OpenAI,9710
+1.0,STARTUP,YCombinator,https://yc.com/companies/971,Anthropic,9720
+1.0,STARTUP,YCombinator,https://yc.com/companies/972,Cohere,9730
+1.0,STARTUP,YCombinator,https://yc.com/companies/973,Mistral AI,9740
+1.0,STARTUP,YCombinator,https://yc.com/companies/974,Runway,9750
+1.0,STARTUP,YCombinator,https://yc.com/companies/975,OpenAI,9760
+1.0,STARTUP,YCombinator,https://yc.com/companies/976,Anthropic,9770
+1.0,STARTUP,YCombinator,https://yc.com/companies/977,Cohere,9780
+1.0,STARTUP,YCombinator,https://yc.com/companies/978,Mistral AI,9790
+1.0,STARTUP,YCombinator,https://yc.com/companies/979,Runway,9800
+1.0,STARTUP,YCombinator,https://yc.com/companies/980,OpenAI,9810
+1.0,STARTUP,YCombinator,https://yc.com/companies/981,Anthropic,9820
+1.0,STARTUP,YCombinator,https://yc.com/companies/982,Cohere,9830
+1.0,STARTUP,YCombinator,https://yc.com/companies/983,Mistral AI,9840
+1.0,STARTUP,YCombinator,https://yc.com/companies/984,Runway,9850
+1.0,STARTUP,YCombinator,https://yc.com/companies/985,OpenAI,9860
+1.0,STARTUP,YCombinator,https://yc.com/companies/986,Anthropic,9870
+1.0,STARTUP,YCombinator,https://yc.com/companies/987,Cohere,9880
+1.0,STARTUP,YCombinator,https://yc.com/companies/988,Mistral AI,9890
+1.0,STARTUP,YCombinator,https://yc.com/companies/989,Runway,9900
+1.0,STARTUP,YCombinator,https://yc.com/companies/990,OpenAI,9910
+1.0,STARTUP,YCombinator,https://yc.com/companies/991,Anthropic,9920
+1.0,STARTUP,YCombinator,https://yc.com/companies/992,Cohere,9930
+1.0,STARTUP,YCombinator,https://yc.com/companies/993,Mistral AI,9940
+1.0,STARTUP,YCombinator,https://yc.com/companies/994,Runway,9950
+1.0,STARTUP,YCombinator,https://yc.com/companies/995,OpenAI,9960
+1.0,STARTUP,YCombinator,https://yc.com/companies/996,Anthropic,9970
+1.0,STARTUP,YCombinator,https://yc.com/companies/997,Cohere,9980
+1.0,STARTUP,YCombinator,https://yc.com/companies/998,Mistral AI,9990
+1.0,STARTUP,YCombinator,https://yc.com/companies/999,Runway,10000
